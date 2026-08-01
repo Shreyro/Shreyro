@@ -77,16 +77,16 @@ fun_fact: "I teach machines to see, think, and (occasionally) behave 🤖"
 <div align="center">
 
 <a href="https://github.com/Shreyro/ShreyGPT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyro&repo=ShreyGPT&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-eight-liard.vercel.app/api/pin/?username=Shreyro&repo=ShreyGPT&theme=radical&hide_border=true" />
 </a>
 <a href="https://github.com/Shreyro/Portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyro&repo=Portfolio&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-eight-liard.vercel.app/api/pin/?username=Shreyro&repo=Portfolio&theme=radical&hide_border=true" />
 </a>
 <a href="https://github.com/Shreyro/Parkinson-s-MRI-Analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyro&repo=Parkinson-s-MRI-Analysis&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-eight-liard.vercel.app/api/pin/?username=Shreyro&repo=Parkinson-s-MRI-Analysis&theme=radical&hide_border=true" />
 </a>
 <a href="https://github.com/Shreyro/Spiral-Wave-Parkinson-s">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shreyro&repo=Spiral-Wave-Parkinson-s&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-eight-liard.vercel.app/api/pin/?username=Shreyro&repo=Spiral-Wave-Parkinson-s&theme=radical&hide_border=true" />
 </a>
 
 </div>
