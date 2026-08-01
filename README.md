@@ -67,9 +67,10 @@ fun_fact: "I teach machines to see, think, and (occasionally) behave 🤖"
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Shreyro&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shreyro&layout=compact&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Shreyro&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="59%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shreyro&layout=compact&theme=radical&hide_border=true" width="38%" />
 </div>
+
 
 
 
