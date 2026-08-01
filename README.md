@@ -81,7 +81,6 @@ fun_fact: "I teach machines to see, think, and (occasionally) behave 🤖"
 
 <img src="https://raw.githubusercontent.com/Shreyro/Shreyro/output/github-contribution-grid-snake.svg" width="90%"/>
 
-<sub>⚠️ Snake animation renders once the GitHub Action below is set up in a repo named exactly <code>Shreyro</code> (see setup note).</sub>
 
 </div>
 
