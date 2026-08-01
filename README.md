@@ -57,8 +57,6 @@ fun_fact: "I teach machines to see, think, and (occasionally) behave 🤖"
 
 <div align="center">
 
-![Stats](https://github-readme-stats-fast.vercel.app/api?username=Shreyro&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shreyro&layout=compact&theme=tokyonight) 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyro&theme=radical&hide_border=true" width="60%"/>
 
@@ -67,6 +65,10 @@ fun_fact: "I teach machines to see, think, and (occasionally) behave 🤖"
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyro&theme=react-dark&hide_border=true&area=true" width="90%"/>
 </div>
+
+![Stats](https://github-readme-stats-fast.vercel.app/api?username=Shreyro&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shreyro&layout=compact&theme=tokyonight) 
+
 
 ---
 
