@@ -37,7 +37,7 @@ fun_fact: "I teach machines to see, think, and (occasionally) behave 🤖"
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,flask,docker,git,github,vscode,linux,js,html,css,mysql,postgres,gcp,aws&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,flask,docker,git,github,vscode,linux,js,html,css,mysql,postgres,gcp,aws,azure,databricks,powerbi,lookerstudio,bigquery,tableau&theme=dark&perline=10" />
 
 </div>
 
