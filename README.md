@@ -18,11 +18,10 @@
 
 ```yaml
 name: Shreya Roshan
-role: AI Engineer
-focus: [Machine Learning, MLOps, Generative AI]
-mission: "Building intelligent systems that automate, scale & solve real-world problems"
-currently_exploring: LLM applications & production-grade ML pipelines
-fun_fact: "I teach machines to see, think, and (occasionally) behave 🤖"
+role: AI Engineer & Researcher
+focus: [Machine Learning, MLOps, Generative AI, Medical Computer Vision]
+mission: "Bridging the gap between experimental machine learning and robust, production-grade software engineering."
+current_focus: Building automated MLOps infrastructure & healthcare AI systems.
 ```
 
 🔭 Featured Build: Engineering ModelForge — an end-to-end MLOps platform featuring FastAPI, MLflow, Evidently AI drift monitoring, and GitHub Actions CI/CD.
