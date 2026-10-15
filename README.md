@@ -25,11 +25,12 @@ currently_exploring: LLM applications & production-grade ML pipelines
 fun_fact: "I teach machines to see, think, and (occasionally) behave 🤖"
 ```
 
-- 🔭 Currently building **[ShreyGPT](https://github.com/Shreyro/ShreyGPT)** — a chatbot with an interactive interface
-- 🧠 Deep-diving into **MRI-based Parkinson's detection** using CNNs & spiral/wave analysis
-- 🌐 Crafting my personal **[Portfolio](https://github.com/Shreyro/Portfolio)**
-- 💬 Ask me about model deployment, GenAI pipelines, or medical imaging ML
-- ⚡ Fun fact: I debug faster than I make coffee ☕
+🔭 Featured Build: Engineering ModelForge — an end-to-end MLOps platform featuring FastAPI, MLflow, Evidently AI drift monitoring, and GitHub Actions CI/CD.
+
+🧠 Research & Deep Tech: Developing MRI-based Parkinson's detection systems using advanced CNNs and spiral/wave kinematic analysis.
+
+💬 Let's Connect: Open to high-impact software engineering roles, research collaborations, and technical discussions around production ML.
+
 
 ---
 
