@@ -122,12 +122,7 @@ flowchart LR
 
 </details>
 
-<details>
-<summary><b>More projects</b></summary>
-<br/>
 
-
-</details>
 
 <div align="center"><img src="./assets/divider-sakura.svg" width="100%"/></div>
 
