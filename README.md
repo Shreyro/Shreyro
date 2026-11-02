@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="Shreya Roshan: AI Engineer, Machine Learning, Data Science"/>
+<img src="./assets/header-sakura.svg" width="100%" alt="Shreya Roshan: AI Engineer, Machine Learning, Data Science"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=1000&color=F184D7&center=true&vCenter=true&width=720&lines=Turning+raw+data+into+decisions;Training+models+that+hold+up+in+production;Building+LLM+systems+you+can+verify;From+notebook+to+monitored+service" alt="Typing summary"/>
 
@@ -21,7 +21,7 @@ I'm an AI/ML engineer and data scientist who cares about the part after the note
 - 🩺 **Research interest:** healthcare AI, including MRI-based Parkinson's detection
 - 💬 **Open to:** AI/ML engineering, data science and applied research roles
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="./assets/divider-sakura.svg" width="100%"/></div>
 
 ### What I do
 
@@ -29,7 +29,7 @@ I'm an AI/ML engineer and data scientist who cares about the part after the note
 <img src="./assets/pillars.svg" width="100%" alt="Data Science, Machine Learning, and AI and GenAI capabilities"/>
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="./assets/divider-sakura.svg" width="100%"/></div>
 
 ### Featured projects
 
@@ -135,7 +135,7 @@ flowchart LR
 
 </details>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="./assets/divider-sakura.svg" width="100%"/></div>
 
 ### Tech stack
 
@@ -168,7 +168,7 @@ flowchart LR
 
 </div>
 
-<div align="center"><img src="./assets/divider.svg" width="100%"/></div>
+<div align="center"><img src="./assets/divider-sakura.svg" width="100%"/></div>
 
 ### GitHub activity
 
