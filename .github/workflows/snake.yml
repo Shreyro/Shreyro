@@ -21,7 +21,7 @@ jobs:
           github_user_name: Shreyro
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#e9b949&color_dots=#0d1426,#123a5c,#1f6fa3,#4cc3ff,#a5e4ff
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push snake SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
