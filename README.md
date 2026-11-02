@@ -17,9 +17,9 @@
 
 I'm an AI/ML engineer and data scientist who cares about the part after the notebook: making models **measurable, reproducible and trustworthy** once they meet real data. My work spans classical ML and statistics, deep learning for medical imaging, and LLM applications that cite their evidence.
 
-- 🌸 **Currently:** building automated MLOps infrastructure and evidence-grounded LLM agents
-- 🩺 **Research interest:** healthcare AI, including MRI-based Parkinson's detection
-- 💬 **Open to:** AI/ML engineering, data science and applied research roles
+-  **Currently:** building automated MLOps infrastructure and evidence-grounded LLM agents
+-  **Research interest:** healthcare AI, including MRI-based Parkinson's detection
+-  **Open to:** AI/ML engineering, data science and applied research roles
 
 <div align="center"><img src="./assets/divider-sakura.svg" width="100%"/></div>
 
@@ -126,12 +126,6 @@ flowchart LR
 <summary><b>More projects</b></summary>
 <br/>
 
-| Project | Description |
-|---|---|
-| [ShreyGPT](https://github.com/Shreyro/ShreyGPT) | Chatbot with an interactive interface |
-| [NLP](https://github.com/Shreyro/NLP) | Natural language processing projects |
-| [Machine-Vision](https://github.com/Shreyro/Machine-Vision) | Computer vision projects |
-| [Spam-classification](https://github.com/Shreyro/Spam-classification) | Text classification for spam detection |
 
 </details>
 
