@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="250" viewBox="0 0 480 250">
+  <defs>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#140a2e"/><stop offset="1" stop-color="#0a1128"/></linearGradient>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#8b5cf6"/><stop offset="1" stop-color="#22d3ee"/>
+      <animateTransform attributeName="gradientTransform" type="rotate" values="0 .5 .5;360 .5 .5" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="g"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".35"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+    <clipPath id="c"><rect width="480" height="250" rx="18"/></clipPath>
+  </defs>
+  <style>
+    text{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+    .tag{font-size:12px;fill:#e2e8f0;font-weight:600}
+    .dot{animation:p 2s ease-in-out infinite}@keyframes p{50%{opacity:.25}}
+  </style>
+  <g clip-path="url(#c)">
+    <rect width="480" height="250" fill="url(#b)"/>
+    <circle cx="430" cy="30" r="150" fill="url(#g)"><animate attributeName="r" values="140;170;140" dur="5s" repeatCount="indefinite"/></circle>
+    <text x="32" y="52" font-size="28">⚡</text>
+    <text x="72" y="50" font-size="24" font-weight="800" fill="#f8fafc">ModelForge</text>
+    <text x="448" y="82" font-size="11" font-weight="700" fill="#22d3ee" text-anchor="end" letter-spacing="1.2">MLOPS</text>
+    <circle cx="452" cy="40" r="0" />
+    <text x="32" y="82" font-size="14" font-weight="600" fill="#22d3ee">End-to-end MLOps platform</text>
+    <text y="116" font-size="14.5" fill="#cbd5e1"><tspan x="32" dy="0">Train → track → serve → monitor. Reproducible</tspan><tspan x="32" dy="22">experiments, drift detection and CI/CD on every</tspan><tspan x="32" dy="22">push.</tspan></text>
+    <g transform="translate(0 196)"><g transform="translate(32 0)"><rect width="75" height="26" rx="13" fill="#8b5cf6" fill-opacity=".14" stroke="#8b5cf6" stroke-opacity=".45"/><text x="38" y="17.5" text-anchor="middle" class="tag">FastAPI</text></g><g transform="translate(115 0)"><rect width="68" height="26" rx="13" fill="#8b5cf6" fill-opacity=".14" stroke="#8b5cf6" stroke-opacity=".45"/><text x="34" y="17.5" text-anchor="middle" class="tag">MLflow</text></g><g transform="translate(191 0)"><rect width="90" height="26" rx="13" fill="#8b5cf6" fill-opacity=".14" stroke="#8b5cf6" stroke-opacity=".45"/><text x="45" y="17.5" text-anchor="middle" class="tag">Evidently</text></g><g transform="translate(289 0)"><rect width="68" height="26" rx="13" fill="#8b5cf6" fill-opacity=".14" stroke="#8b5cf6" stroke-opacity=".45"/><text x="34" y="17.5" text-anchor="middle" class="tag">Docker</text></g><g transform="translate(365 0)"><rect width="98" height="26" rx="13" fill="#8b5cf6" fill-opacity=".14" stroke="#8b5cf6" stroke-opacity=".45"/><text x="49" y="17.5" text-anchor="middle" class="tag">GH Actions</text></g></g>
+  </g>
+  <rect x="1" y="1" width="478" height="248" rx="18" fill="none" stroke="url(#a)" stroke-width="2"/>
+</svg>
